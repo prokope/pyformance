@@ -1,2 +1,2 @@
 # pyformance
-A simple dashboard containing studies performance
+A simple dashboard showing study performance

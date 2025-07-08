@@ -27,10 +27,10 @@ This project is a **personal performance dashboard** that visualizes study stati
    - A Chart.js graph displays the information dynamically.
    - Users can switch between different data views by clicking a button.
    - 
-## 📷 Example Screenshotss
+## 📷 Example Screenshots
 
 Here are a few screenshots of the dashboard in action:
 
-![Main Dashboard View](./frontend/assets/most-studied-subjects.png)
-![Correct Answers Pie Chart](./frontend/assets/exercises-performance.png)
-![Daily Study Average](./frontend/assets/daily-study-average.png)
+![Main Dashboard View](./Pyformance/frontend/assets/most-studied-subjects.png)
+![Correct Answers Pie Chart](./Pyformance/frontend/assets/exercises-performance.png)
+![Daily Study Average](./Pyformance/frontend/assets/daily-study-average.png)

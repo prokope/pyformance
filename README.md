@@ -26,7 +26,7 @@ This project is a **personal performance dashboard** that visualizes study stati
    - After the animation, data from the JSON file is loaded via JavaScript.
    - A Chart.js graph displays the information dynamically.
    - Users can switch between different data views by clicking a button.
-   - 
+     
 ## 📷 Example Screenshots
 
 Here are a few screenshots of the dashboard in action:

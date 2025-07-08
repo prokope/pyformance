@@ -1,0 +1,74 @@
+body
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: linear-gradient(45deg, #edeefa, #dbdef8, #eceeff);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: #2c2c2c;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0;
+    transition: opacity 1s ease-in;
+}
+
+body.fade-in {
+  opacity: 1;
+}
+
+h1
+{
+    text-align: center;
+    margin-top: 6%;
+}
+
+hr
+{
+    height: 2px;
+    width: 40%;
+    border: none;
+    border-bottom: 2px solid #2c2c2c;
+}
+
+div.dashboard_box
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5%;
+    padding: 5%;
+    width: 35%;
+    height: 40%;
+
+}
+
+h2
+{
+    text-align: center;
+}
+
+button.changeview
+{
+    width: 25%;
+    margin-top: 3%;
+    cursor: pointer;
+}
+
+h3#study_average
+{
+    font-size: 2.2rem;
+    color: #3d9140;
+}
+
+label
+{
+    font-size: 1.3rem;
+    margin-bottom: 3%;
+}
+
+option
+{
+    border-radius: 3%;
+}

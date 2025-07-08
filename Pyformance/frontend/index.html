@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pyformance</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Study performance</h1>
+    <hr>
+
+    <div class="dashboard_box">
+        <h2 id="chartTitle">Top 3 Most Studied Subjects</h2>
+
+        <canvas id="myChart" width="400" height="200"></canvas>
+        
+        <h3 id="study_average"></h3>
+
+        <label for="statistics">Choose an option:</label>
+        <select id="statistics" name="statistics" onchange="changeView()">
+        <option value="most_studied_subjects">Most Studied Subjects</option>
+        <option value="exercises_performance">Exercises Performance</option>
+        <option value="average_study_time">Average Study Time</option>
+</select>
+
+    </div>
+</body>
+             
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="script.js"></script>
+</html>

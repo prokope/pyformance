@@ -10,7 +10,7 @@ This project is a **personal performance dashboard** that visualizes study stati
 1. **Data Collection and Preparation**  
    A dataset is manually or automatically updated with study logs, containing:
    - Date
-   - Number of answered, correct, and wrong questions
+   - Number of answered, correct, and wrong question
    - Time spent studying
    - Subject studied
 

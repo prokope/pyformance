@@ -34,3 +34,4 @@ Here are a few screenshots of the dashboard in action:
 ![Main Dashboard View](./Pyformance/frontend/assets/most-studied-subjects.png)
 ![Correct Answers Pie Chart](./Pyformance/frontend/assets/exercises-performance.png)
 ![Daily Study Average](./Pyformance/frontend/assets/daily-study-average.png)
+![Table With Data](./Pyformance/frontend/assets/data_table)
